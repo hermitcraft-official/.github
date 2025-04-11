@@ -4,12 +4,12 @@ This organization contains some content related to the Hermitcraft minecraft ser
 Currently, there are only some data packs that are exclusively used for Hermitcraft.
 
 ### 1.21
-- [cave-cleaner](https://github.com/hermitcraft-official/cave-cleaner/archive/refs/tags/v1.2.zip): Easily find and remove pesky item-wielding mobs from hard to find caves
-- [tp-tools](https://github.com/hermitcraft-official/tp-tools/archive/refs/tags/v1.2.zip): Helpful teleportation commands for spectators
-- [toggle-weather](https://github.com/hermitcraft-official/toggle-weather/archive/refs/tags/v1.2.zip): Simple triggers to toggle both rain and thunder
-- [hard-on-start](https://github.com/hermitcraft-official/hard-on-start/archive/refs/tags/v1.2.zip): Hard on start
-- [RestartRedstone](https://github.com/hermitcraft-official/RestartRedstone/archive/refs/tags/v1.2.zip): Lets you place "dormant" redstone blocks that get activated once for a few ticks on command
-- [camera](https://github.com/hermitcraft-official/RestartRedstone/archive/refs/tags/v1.1.zip): `/trigger camera` to swap b/w spectator and survival
+- [cave-cleaner](https://github.com/hermitcraft-official/cave-cleaner/archive/refs/tags/v1.3.zip): Easily find and remove pesky item-wielding mobs from hard to find caves
+- [tp-tools](https://github.com/hermitcraft-official/tp-tools/archive/refs/tags/v1.3.zip): Helpful teleportation commands for spectators
+- [toggle-weather](https://github.com/hermitcraft-official/toggle-weather/archive/refs/tags/v1.3.zip): Simple triggers to toggle both rain and thunder
+- [hard-on-start](https://github.com/hermitcraft-official/hard-on-start/archive/refs/tags/v1.3.zip): Hard on start
+- [RestartRedstone](https://github.com/hermitcraft-official/RestartRedstone/archive/refs/tags/v1.3.zip): Lets you place "dormant" redstone blocks that get activated once for a few ticks on command
+- [camera](https://github.com/hermitcraft-official/RestartRedstone/archive/refs/tags/v1.2.zip): `/trigger camera` to swap b/w spectator and survival
 
 
 ### 1.20.5
