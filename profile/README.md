@@ -4,13 +4,13 @@ This organization contains some content related to the Hermitcraft minecraft ser
 Currently, there are only some data packs that are exclusively used for Hermitcraft.
 
 ### 26.1
-- [cave-cleaner](https://github-zip.rx97.dev/hermitcraft-official/cave-cleaner?ref=v1.7): Easily find and remove pesky item-wielding mobs from hard to find caves
-- [tp-tools](https://github-zip.rx97.dev/hermitcraft-official/tp-tools?ref=v1.8): Helpful teleportation commands for spectators
-- [toggle-weather](https://github-zip.rx97.dev/hermitcraft-official/toggle-weather?ref=v1.7): Simple triggers to toggle both rain and thunder
-- [hard-on-start](https://github-zip.rx97.dev/hermitcraft-official/hard-on-start?ref=v1.7): Hard on start
-- [RestartRedstone](https://github-zip.rx97.dev/hermitcraft-official/RestartRedstone?ref=v1.7): Lets you place "dormant" redstone blocks that get activated once for a few ticks on command
-- [camera](https://github-zip.rx97.dev/hermitcraft-official/camera?ref=v1.6): `/trigger camera` to swap b/w spectator and survival
-- [unlock-recipes-trigger](https://github-zip.rx97.dev/hermitcraft-official/unlock-recipes-trigger?ref=v1.0): `/trigger recipeunlock` to unlock recipes
+- [cave-cleaner](https://github-zip.rx97.dev/hermitcraft-official/cave-cleaner/latest): Easily find and remove pesky item-wielding mobs from hard to find caves
+- [tp-tools](https://github-zip.rx97.dev/hermitcraft-official/tp-tools/latest): Helpful teleportation commands for spectators
+- [toggle-weather](https://github-zip.rx97.dev/hermitcraft-official/toggle-weather/latest): Simple triggers to toggle both rain and thunder
+- [hard-on-start](https://github-zip.rx97.dev/hermitcraft-official/hard-on-start/latest): Hard on start
+- [RestartRedstone](https://github-zip.rx97.dev/hermitcraft-official/RestartRedstone/latest): Lets you place "dormant" redstone blocks that get activated once for a few ticks on command
+- [camera](https://github-zip.rx97.dev/hermitcraft-official/camera/latest): `/trigger camera` to swap b/w spectator and survival
+- [unlock-recipes-trigger](https://github-zip.rx97.dev/hermitcraft-official/unlock-recipes-trigger/latest): `/trigger recipeunlock` to unlock recipes
 
 <details>
   <summary>Older Downloads</summary>
