@@ -3,7 +3,7 @@
 This organization contains some content related to the Hermitcraft minecraft server.
 Currently, there are only some data packs that are exclusively used for Hermitcraft.
 
-### 26.1
+### 26.1 & 26.2
 - [cave-cleaner](https://github-zip.rx97.dev/hermitcraft-official/cave-cleaner/latest): Easily find and remove pesky item-wielding mobs from hard to find caves
 - [tp-tools](https://github-zip.rx97.dev/hermitcraft-official/tp-tools/latest): Helpful teleportation commands for spectators
 - [toggle-weather](https://github-zip.rx97.dev/hermitcraft-official/toggle-weather/latest): Simple triggers to toggle both rain and thunder
